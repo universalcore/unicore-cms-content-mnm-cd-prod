@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
   "description": "La bonne nouvelle est qu'il est facile de se prot\u00e9ger contre le paludisme ! Voici comment faire.", 
-  "language": "fre_CD", 
+  "language": "swa_CD", 
   "title": "Comment pr\u00e9venir le paludisme", 
   "primary_category": "7b642a3a4b4b44d1abc915538a706831", 
   "created_at": "2015-07-22T21:10:27+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-07-22T21:17:58.246664+00:00", 
+  "modified_at": "2015-07-22T21:45:08.468984+00:00", 
   "_version": {
     "package_version": "1.4.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 3, 
+  "position": 2, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "comment-prevenir-le-paludisme", 
   "uuid": "e692fcc48c7b469a94fba2effc7b5fb2"
