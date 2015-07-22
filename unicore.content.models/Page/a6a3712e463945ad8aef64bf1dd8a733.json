@@ -6,12 +6,12 @@
   "primary_category": "7b642a3a4b4b44d1abc915538a706831", 
   "created_at": "2015-07-22T21:03:52+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-07-22T21:46:45.766442+00:00", 
+  "modified_at": "2015-07-22T21:47:03.241646+00:00", 
   "_version": {
     "package_version": "1.4.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -26,6 +26,6 @@
   "published": null, 
   "position": 0, 
   "image_host": "http://thumbor.unicore.io", 
-  "slug": "quest-ce-que-le-paludisme", 
+  "slug": "what-is-malaria", 
   "uuid": "a6a3712e463945ad8aef64bf1dd8a733"
 }
