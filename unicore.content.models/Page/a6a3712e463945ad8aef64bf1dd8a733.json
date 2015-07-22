@@ -10,13 +10,11 @@
   "_version": {
     "package_version": "1.4.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [
-    "464dafbaf38e47e7b62216e440afb4ff"
-  ], 
+  "linked_pages": [], 
   "id": null, 
   "content": "to be added", 
   "source": "2637eaeb6d554fa0bee5331dd6d08adf", 
