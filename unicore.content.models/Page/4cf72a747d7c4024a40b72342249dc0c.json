@@ -1,22 +1,22 @@
 {
   "subtitle": "", 
-  "description": "to be added", 
+  "description": "Ikiwa una malaria ni muhimu kwamba utafute matibabu mara moja. Ikiwachwa bila kutibiwa, malaria inaweza kuuwa.", 
   "language": "swa_CD", 
-  "title": "To be added - 4", 
+  "title": "Jinsi ya kutibu malaria", 
   "primary_category": "7b642a3a4b4b44d1abc915538a706831", 
   "created_at": "2015-07-22T21:08:36+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-07-22T21:48:42.668724+00:00", 
+  "modified_at": "2015-07-23T08:55:19.482023+00:00", 
   "_version": {
     "package_version": "1.4.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
   "id": null, 
-  "content": "to be added", 
+  "content": "Ikiwa unaonyesha dalili za malaria, unahitaji kutafuta usaidizi mara moja ili uhakikishe afya yako, na afya ya wale walio katika jamii yao. \r\n\r\n**Tafuta kliniki... mara moja!**\r\n\r\nHata kama huna uhakika wa dalili zako, tafuta kliniki au wasiliana na mhudumu wa afya mara moja! sio jambo nzuri kusubiri, malaria ni hatari zaidi kama haitatibiwa. \r\n\r\n**Pimwa**\r\n\r\nKipimo cha Haraka cha Utambuzi (RDT) kinaweza kukupa utambuzi sahihi ndani ya dakika 15. Kliniki yako inapaswa kuwa na huduma hizi - wakati mwingine wahudumu wa afya  wa jamii wanaweza kukupima kijijini mwako!\r\n\r\n**Tibiwa**\r\n\r\nKliniki ya eneo lako au wahudumu wa afya ya jamii wanapaswa kuwa na matibabu mkononi ili wakusaidie kujihisi vyema. Katika hali za kawaida, malaria inaweza kutibiwa ndani ya siku chache, lakini mtoa huduma wako wa afya anajua vyema!\r\n\r\n**Tumia matibabu yako YOTE**\r\n\r\nKumbuka, ikiwa hutakamilisha matibabu yako, bado una malaria ndani yako na ni tishio kwa wale walio karibu na wewe. Mbu watakuwa bado wanaweza kupata malaria kutoka kwa mwili wako na kumwambukiza mtu anayefuata ambaye wanamuuma. Kwa hivyo, hata kama utajihisi vyema, tafadhali fikiria kuhusu familia na marafiki wako na umalize matibabu yako!", 
   "source": "21d0651e8d0f41e0911582bd0d265e6c", 
   "featured": false, 
   "author_tags": [], 
@@ -24,6 +24,6 @@
   "published": null, 
   "position": 3, 
   "image_host": "http://thumbor.unicore.io", 
-  "slug": "how-treat-malaria", 
+  "slug": "jinsi-ya-kutibu-malaria", 
   "uuid": "4cf72a747d7c4024a40b72342249dc0c"
 }
