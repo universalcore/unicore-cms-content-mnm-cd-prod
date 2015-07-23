@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
   "description": "Ikiwa una malaria ni muhimu kwamba utafute matibabu mara moja. Ikiwachwa bila kutibiwa, malaria inaweza kuuwa.", 
-  "language": "swa_CD", 
+  "language": "swa_TZ", 
   "title": "Jinsi ya kutibu malaria", 
   "primary_category": "7b642a3a4b4b44d1abc915538a706831", 
   "created_at": "2015-07-22T21:08:36+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-07-23T08:55:19.482023+00:00", 
+  "modified_at": "2015-07-23T16:10:59.513277+00:00", 
   "_version": {
     "package_version": "1.4.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 3, 
+  "position": 4, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "jinsi-ya-kutibu-malaria", 
   "uuid": "4cf72a747d7c4024a40b72342249dc0c"
