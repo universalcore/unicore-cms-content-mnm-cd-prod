@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
   "description": "Kuanzia kutatiza masomo hadi kuchukua livu, ni muhimu kujua athari za maradhi haya haribifu ambayo yamewauwa Waafrika 528,000 mwaka uliopita.", 
-  "language": "swa_CD", 
+  "language": "swa_TZ", 
   "title": "Kwa nini malaria ni jambo nzito", 
   "primary_category": "7b642a3a4b4b44d1abc915538a706831", 
   "created_at": "2015-07-22T21:06:25+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-07-23T08:51:43.416136+00:00", 
+  "modified_at": "2015-07-23T16:10:36.913620+00:00", 
   "_version": {
     "package_version": "1.4.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -25,7 +25,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 1, 
+  "position": 2, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "kwa-nini-malaria-ni-jambo-nzito", 
   "uuid": "464dafbaf38e47e7b62216e440afb4ff"
