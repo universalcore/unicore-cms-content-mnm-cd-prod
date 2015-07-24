@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
   "description": "En savoir plus sur la mani\u00e8re dont le paludisme affecte la population de la R\u00e9publique d\u00e9mocratique du Congo.", 
-  "language": "fre_CD", 
+  "language": "fre_SN", 
   "title": "Le paludisme en R\u00e9publique d\u00e9mocratique du Congo", 
   "primary_category": "a484af1f45de45ab9b6f6cd88efdbdfb", 
   "created_at": "2015-02-03T13:24:18+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-07-22T21:44:35.235890+00:00", 
+  "modified_at": "2015-07-24T09:41:48.982611+00:00", 
   "_version": {
     "package_version": "0.3.3", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 9, 
+  "position": 10, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "le-paludisme-en-republique-democratique-du-congo", 
   "uuid": "acecbaad641646ecb16e1e077fa3501b"
