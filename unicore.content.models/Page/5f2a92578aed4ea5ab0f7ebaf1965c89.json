@@ -6,12 +6,12 @@
   "primary_category": "7b642a3a4b4b44d1abc915538a706831", 
   "created_at": "2015-07-22T21:16:15+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-07-27T11:33:52.200265+00:00", 
+  "modified_at": "2015-07-27T13:06:45.001473+00:00", 
   "_version": {
     "package_version": "1.4.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 5, 
+  "position": 4, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "malaria-katika-jamhuri-ya-kidemokrasia-ya-kongo", 
   "uuid": "5f2a92578aed4ea5ab0f7ebaf1965c89"
